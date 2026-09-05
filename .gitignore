@@ -1,0 +1,8 @@
+config.yml
+keystore.p12
+metadata/
+tmp/
+srclibs/
+unsigned/
+cache/
+.DS_Store

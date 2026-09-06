@@ -6,3 +6,5 @@ srclibs/
 unsigned/
 cache/
 .DS_Store
+repo/status/
+repo/diff/
